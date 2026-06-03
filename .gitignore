@@ -1,0 +1,12 @@
+# Abaikan file data mentah JSON
+music_data.json
+
+# Abaikan folder virtual environment (jika ada)
+.venv/
+venv/
+env/
+__pycache__/
+
+# Abaikan file konfigurasi OS
+.DS_Store
+Thumbs.db
